@@ -62,22 +62,22 @@ This project is a starting point for a Flutter application.
   <tbody>
     <tr>
       <td align="center" width="25%">
-        <img src="https://github.com/user-attachments/assets/94618193-6e7b-4313-8a60-9e77f3b4577e" width="200" alt="Splash Screen"><br>
+        <img src="https://github.com/user-attachments/assets/94618193-6e7b-4313-8a60-9e77f3b4577e" width="200"><br>
         <br>
         <b>Splash Screen</b>
       </td>
       <td align="center" width="25%">
-        <img src="https://github.com/user-attachments/assets/ca4dd2c1-513a-497a-ba61-54edef613db6" width="200" alt="Home Screen"><br>
+        <img src="https://github.com/user-attachments/assets/ca4dd2c1-513a-497a-ba61-54edef613db6" width="200" ><br>
         <br>
         <b>Home Screen</b>
       </td>
       <td align="center" width="25%">
-        <img src="https://github.com/user-attachments/assets/5779b385-42cf-44ba-8c37-3d127a308ee5" width="200" alt="Student Profile"><br>
+        <img src="https://github.com/user-attachments/assets/5779b385-42cf-44ba-8c37-3d127a308ee5" width="200" ><br>
         <br>
         <b>Student Profile</b>
       </td>
       <td align="center" width="25%">
-        <img src="https://github.com/user-attachments/assets/b4b179f6-9b6d-4297-b4c6-71c8f2e80dd1" width="200" alt="Skills"><br>
+        <img src="https://github.com/user-attachments/assets/b4b179f6-9b6d-4297-b4c6-71c8f2e80dd1" width="200" ><br>
         <br>
         <b>Skills</b>
       </td>
@@ -89,17 +89,17 @@ This project is a starting point for a Flutter application.
         <b>Education</b>
       </td>
       <td align="center" width="25%">
-        <img src="https://github.com/user-attachments/assets/a767d0f4-7f3e-4c1d-9512-79ee9eb90fda" width="200" alt="Projects"><br>
+        <img src="https://github.com/user-attachments/assets/a767d0f4-7f3e-4c1d-9512-79ee9eb90fda" width="200" ><br>
         <br>
         <b>Projects</b>
       </td>
       <td align="center" width="25%">
-        <img src="https://github.com/user-attachments/assets/c90fcf20-976d-4b25-9afc-fb5474e61bcf" width="200" alt="Contact"><br>
+        <img src="https://github.com/user-attachments/assets/c90fcf20-976d-4b25-9afc-fb5474e61bcf" width="200"><br>
         <br>
         <b>Contact</b>
       </td>
       <td align="center" width="25%">
-        <img src="https://github.com/user-attachments/assets/c6649202-f454-4269-a7a4-7297ff0717cd" width="200" alt="Navigation Drawer"><br>
+        <img src="https://github.com/user-attachments/assets/c6649202-f454-4269-a7a4-7297ff0717cd" width="200 ><br>
         <br>
         <b>Navigation Drawer</b>
       </td>
